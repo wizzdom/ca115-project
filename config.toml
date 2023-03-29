@@ -1,7 +1,7 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://ca115.wizzdom.xyz/'
 languageCode = 'en-us'
 theme = 'graysx'
-title = 'Example Graysx Site'
+title = 'NovaScape NS-1'
 
 ## Site Settings
 [params]
@@ -15,14 +15,14 @@ phone = "123456"
 
 # Socials
 
-twitter = "#"
-facebook = "#"
-github = "https://github.com/akatiggerx04/graysx-hugo"
+twitter = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+facebook = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+github = "https://github.com/wizzdom/ca115-project"
 
 # Other
 
 # Startbootstrap Contact Form Token https://startbootstrap.com/solution/contact-forms
-sbtoken = "TOKEN_HERE"
+# sbtoken = "TOKEN_HERE"
 
 ## Menu Items
 [menu]
