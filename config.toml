@@ -5,7 +5,7 @@ title = 'NovaScape NS-1'
 
 ## Site Settings
 [params]
-logo = "assets/img/logo.webp"
+logo = "assets/img/logo.png"
 favicon = "assets/favicon.png"
 
 # Info
@@ -32,7 +32,7 @@ github = "https://github.com/wizzdom/ca115-project"
   weight = 1
 
   [[menu.main]]
-  name = "Projects"
+  name = "Features"
   URL = "#projects"
   weight = 2
 
