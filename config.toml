@@ -1,4 +1,4 @@
-baseURL = 'http://ca115.wizzdom.xyz/'
+baseURL = 'https://ca115.wizzdom.xyz/'
 languageCode = 'en-us'
 theme = 'graysx'
 title = 'NovaScape NS-1'
@@ -9,8 +9,8 @@ logo = "assets/img/logo.webp"
 favicon = "assets/favicon.png"
 
 # Info
-address = "123 Arch B1W, GNU/Linux"
-email = "hello@graysx.com"
+address = "123 Arch BTW, GNU/Linux"
+email = "wizzdom@redbrick.dcu.ie"
 phone = "123456"
 
 # Socials
