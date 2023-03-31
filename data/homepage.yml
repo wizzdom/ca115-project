@@ -13,8 +13,8 @@ about:
   desc: "We are proud to announce our latest product, the NovaScope Virtual reality headset. With cutting edge display and processor technology, we aim to be the next frontier of VR. Redefining what it means to live work and play in virtual worlds. Where all worlds collide."
   button:
     enable: true
-    text: "More details"
-    url: "#projects"
+    text: "Take our Survey!"
+    url: "https://forms.gle/Ng8LkiLSxPTmtYoL7"
   image: "assets/img/bg.png"
 
 projects:
