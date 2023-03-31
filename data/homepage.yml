@@ -10,7 +10,8 @@ main:
 # About
 about:
   title: "What is the NS-1?"
-  desc: "We are proud to announce our latest product, the NovaScope Virtual reality headset. With cutting edge display and processor technology, we aim to be the next frontier of VR. Redefining what it means to live work and play in virtual worlds. Where all worlds collide."
+  desc: "We are proud to announce our latest product, the NovaScope Virtual reality headset. With cutting edge display and processor technology, we aim to be the next frontier of VR. Redefining what it means to live work and play in virtual worlds. Where all worlds collide. 
+    We also need to make it reasonably priced, our target is gaming enthusiasts and casual VR users, a price tag of €600 is our goal as this is enough to support us, while also being a price that consumers are willing to pay, as found in a survey that we did on our peers who are interested in VR. During our research, we targeted two particular headsets, the Meta Quest 2 and the Valve index, which cost €450-500 and €100 respectively. This is why we chose €600 as the optimal price, due to it being a middle ground between both devices."
   button:
     enable: true
     text: "Take our Survey!"
