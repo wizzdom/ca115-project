@@ -9,9 +9,9 @@ logo = "assets/img/logo.png"
 favicon = "assets/favicon.png"
 
 # Info
-address = "123 Arch BTW, GNU/Linux"
+address = "Dublin City University, DCU Glasnevin Campus, Dublin 9, Ireland"
 email = "wizzdom@redbrick.dcu.ie"
-phone = "123456"
+phone = "12345678"
 
 # Socials
 
@@ -27,17 +27,17 @@ github = "https://github.com/wizzdom/ca115-project"
 ## Menu Items
 [menu]
   [[menu.main]]
-  name = "About"
+  name = "Product Description"
   URL = "#about"
   weight = 1
 
   [[menu.main]]
-  name = "Features"
+  name = "Product Pricing"
   URL = "#projects"
   weight = 2
 
   [[menu.main]]
-  name = "Contact"
+  name = "About Us / Team Contact"
   URL = "#signup"
   weight = 3
 

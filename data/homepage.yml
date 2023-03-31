@@ -9,8 +9,8 @@ main:
 
 # About
 about:
-  title: "About us"
-  desc: "Redefining what it means to live work and play in virtual worlds. Where all worlds collide."
+  title: "What is the NS-1?"
+  desc: "We are proud to announce our latest product, the NovaScope Virtual reality headset. With cutting edge display and processor technology, we aim to be the next frontier of VR. Redefining what it means to live work and play in virtual worlds. Where all worlds collide."
   button:
     enable: true
     text: "Button"
